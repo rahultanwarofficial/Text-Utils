@@ -1,6 +1,6 @@
 {
   "homepage": "https://rahultanwarofficial.github.io/text-utils/",
-  "name": "another",
+  "name": "text-utils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
